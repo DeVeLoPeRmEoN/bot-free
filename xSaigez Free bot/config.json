@@ -1,0 +1,11 @@
+{
+	"sql": {
+		"host": "",
+		"user": "",
+		"password": "",
+		"database": ""
+	},
+	
+	"token":"",
+	"prefix":""
+}
